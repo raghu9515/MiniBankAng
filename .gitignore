@@ -1,0 +1,30 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+*.cache
+*.db
+*.bak
+*.swp
+*.log
+*.ldf
+*.mdf
+
+# Visual Studio Code
+.vscode/
+
+# Angular / Node
+node_modules/
+coverage/
+dist/
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# IDE junk
+.DS_Store
+Thumbs.db
